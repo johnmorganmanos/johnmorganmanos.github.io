@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "John-Morgan Manos"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "John-Morgan Manos"
 description              : &description "personal description"
 url                      : https://johnmorganmanos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : 
   avatar           : "JM_profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "University of Washington"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "jmanos@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
