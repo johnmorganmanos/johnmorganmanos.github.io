@@ -9,8 +9,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
-   - title: "Codes"
-     url: https://github.com/johnmorganmanos
+  - title: "Codes"
+    url: https://github.com/johnmorganmanos
 
   # - title: "Blog Posts"
   #   url: /year-archive/
