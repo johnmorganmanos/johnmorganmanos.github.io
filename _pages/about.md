@@ -15,4 +15,4 @@ I am a PhD student studying under [Professor Brad Lipovsky](https://bradlipovsky
 My research interests include
   - Glacial seismology and its applications in observing glacier sliding
   - Using distributed acoustic sensing to better understand subglacial processes and basal-ice interactions
-  - Observing and modeling glacier geophysical processes
+  - Observing and modeling glacier geophysical and hydrological processes
