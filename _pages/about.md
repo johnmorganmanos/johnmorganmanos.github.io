@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Rock Glacier](files/20170709_101651.jpg)
+![Antarctica, McMurdo Ice Self](images/PC040267.JPG)
 
 I am a PhD student studying under [Professor Brad Lipovsky](https://bradlipovsky.github.io/) in the Environmental Geophysics and Computation research group in the [Department of Earth and Space Sciences](https://www.ess.washington.edu/) at the University of Washington.
 
