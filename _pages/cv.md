@@ -13,8 +13,6 @@ November 2025
 Johnson Hall Rm-423 
 4000 15th Avenue NE 
 Seattle, WA 98195-1310                                                    
-Phone: +1 (440) 488-8368 
-Email: jmanos@uw.edu    
  
 Research Interests 
 •
